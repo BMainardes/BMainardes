@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Bruno 👋</h1>
-<h3 align="center">I'm a 19 year old college student and designer from Brazil .</h3>
+<h3 align="center">I'm a 19 year old college student and designer from Brazil</h3>
 
 
 
