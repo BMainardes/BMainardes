@@ -8,7 +8,7 @@
 <h4 align="center">&lt;/About Me&gt;</h4>
 
 
-- 📚 Studying at Fatec in Analysis and Systems Development**
+- 📚 Attending at Fatec in Analysis and Systems Development**
 - 🧑‍💻 I often use Python to create my projects
 - 🔒 Currently studying about security **
 - 🌱 I'm a beginner UX design researcher who incorporates psychoanalysis into my work.
