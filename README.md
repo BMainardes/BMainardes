@@ -10,8 +10,8 @@
 
 - 📚 Attending at Fatec in Analysis and Systems Development**
 - 🧑‍💻 I often use Python to create my projects
-- 🔒 Currently studying about security **
-- 🌱 I'm a beginner UX design researcher who incorporates psychoanalysis into my work.
+- 🔒 Currently studying about security and AI **
+- 🌱 I'm a beginner ML researcher who incorporates Computer Vision into my work.
 - 📚 "Typically handle the front-end for college group projects"
 
 
