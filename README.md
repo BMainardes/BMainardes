@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Bruno 👋</h1>
-<h3 align="center">I'm a 20 year old college student and designer from Brazil</h3>
+<h3 align="center">I'm a 21 year old developer and designer from Brazil</h3>
 
 
 
@@ -10,13 +10,12 @@
 
 - 📚 Attending at Fatec in Analysis and Systems Development**
 - 🧑‍💻 I often use Python to create my projects
-- 🔒 Currently studying about security and AI **
-- 🌱 I'm a beginner ML researcher who incorporates Computer Vision into my work.
-- 📚 "Typically handle the front-end for college group projects"
+- 🔒 Currently studying about Machine Learning and AI **
+- 🌱 I like to incorporate Computer Vision into my work.
 
 
-  
----
+
+  ---
 
 <h4 align="center">&lt;Tools and languages&gt;</h4>
 
